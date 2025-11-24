@@ -37,7 +37,7 @@ pip install SyloraQ
 
 ---
 
-> **For the exe files you can check:**
+> **For the executeable files you can check:**
 > [ByteLightProject on GitHub](https://github.com/GoodByeSyntax/ByteLightProject)
 
 ---
