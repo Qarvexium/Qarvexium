@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Ast/SQ.png" alt="SQShield" width="300">
+  <img src="Qarvexium.png" alt="QV" width="300">
 </p>
 
 # Who is Qarvexium?
