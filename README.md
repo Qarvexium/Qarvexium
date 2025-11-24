@@ -2,13 +2,13 @@
   <img src="Ast/SQ.png" alt="SQShield" width="300">
 </p>
 
-# Who is SyloraQ?
+# Who is Qarvexium?
 
-> SyloraQ is owner of the GBS, BLP, JPM, and some other projects!
+> Qarvexium is owner of the GBS, BLP, JPM, SyloraQ, and some other projects!
 
 ## SyloraQ Module
 
-> SyloraQ is a module that adds new functions to **Python** and simplifies the existing ones...
+> Qarvexium is a module that adds new functions to **Python** and simplifies the existing ones...
 
 ---
 
@@ -17,7 +17,7 @@
 * Click [GUIDE](GUIDE.md) to see it.
 
 ### Install Command
-
+ [will change soon!]
 ```bash
 pip install SyloraQ
 ```
@@ -28,11 +28,11 @@ pip install SyloraQ
 
 ### License
 
-* This project is licensed under the [SyloraQ Software License Agreement](LICENSE.md).
+* This project is licensed under the [Qarvexium Software License Agreement](LICENSE.md).
 
 ### My YouTube Channel
 
-* [SyloraQ YouTube](https://youtube.com/channel/UCOvDKDUeQXqxkit2_mngZDQ/?sub_confirmation=1)
+* [Qarvexium YouTube](https://www.youtube.com/channel/UC6Gblx8KxOdvX08E5t6e3eA/?sub_confirmation=1)
 
 ---
 
@@ -53,9 +53,8 @@ pip install SyloraQ
 
 # Platforms
 
-* **YouTube:** [Here](https://youtube.com/channel/UCOvDKDUeQXqxkit2_mngZDQ/?sub_confirmation=1)
-* **Discord:** [Join Here](https://discord.gg/UMYJrp2B)
-* **GitHub:** [Here](https://github.com/SyloraQ)
+* **YouTube:** [Here](https://www.youtube.com/channel/UC6Gblx8KxOdvX08E5t6e3eA/?sub_confirmation=1)
+* **GitHub:** [Here](https://github.com/Qarvexium)
 
 ---
 
@@ -65,13 +64,9 @@ pip install SyloraQ
 
 ---
 
-# How Do I Suggest?
-
-* Join [Our Linkedin](www.linkedin.com/in/syloraq-official)
 * Suggest your ideas freely!
 
 ---
-
 # Getting Help
 
 * Join the Linkedin server
