@@ -5,8 +5,9 @@
 # Who is Qarvexium?
 
 > Qarvexium is owner of the GBS, BLP, JPM, SyloraQ, and some other projects!
+> Focusing on Utilities/Anti Cheat/Cyber security
 
-## SyloraQ Module
+## Qarvexium Module
 
 > Qarvexium is a module that adds new functions to **Python** and simplifies the existing ones...
 
